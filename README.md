@@ -1,4 +1,5 @@
-🧮 Mini Calculadora — Projeto com JavaScript Vanilla + Bootstrap
+# 🧮 Mini Calculadora
+ — Projeto com JavaScript Vanilla + Bootstrap
 
 Este projeto foi desenvolvido como parte dos meus estudos em JavaScript, com foco na manipulação do DOM, eventos e na criação de interfaces interativas.
 
